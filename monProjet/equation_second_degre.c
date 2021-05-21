@@ -35,5 +35,9 @@ int main(){
 	}
 	}
 	printf("Hello World");
+	printf("J'ai faim");
+	printf("Je m'appelle Jecholiah");
+	printf("Je pars en voyage dans 2 jours");
+	
 
 }
