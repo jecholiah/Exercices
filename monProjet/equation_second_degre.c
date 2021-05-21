@@ -34,5 +34,6 @@ int main(){
 		printf(" les solutions de l equation sont %.2f et %.2f :",x1,x2);
 	}
 	}
+	printf("Hello World");
 
 }
