@@ -1,3 +1,4 @@
+// Code pour calculer l'impot
 #include<stdio.h>
 
 int main(){
